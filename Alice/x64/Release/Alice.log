@@ -1,0 +1,83 @@
+﻿  stdafx.cpp
+  BCMenu.cpp
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(75): warning C4996: 'GetVersion': 被声明为已否决
+  d:\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(135): note: 参见“GetVersion”的声明
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(82): warning C4996: 'GetVersionExW': 被声明为已否决
+  d:\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: 参见“GetVersionExW”的声明
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(97): warning C4996: 'GetVersionExW': 被声明为已否决
+  d:\windows kits\10\include\10.0.17763.0\um\sysinfoapi.h(387): note: 参见“GetVersionExW”的声明
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(210): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(219): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(229): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(240): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(244): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(246): warning C4244: “=”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(256): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(959): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1013): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1014): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1064): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1065): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1118): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1119): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1175): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1176): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1527): warning C4244: “=”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1666): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(123): note: 参见“wcscpy”的声明
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1684): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1684): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1692): warning C4244: “=”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1709): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1709): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1728): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1753): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1762): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1762): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1799): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1809): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1813): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1853): warning C4244: “初始化”: 从“INT_PTR”转换到“UINT”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1948): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1952): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(1952): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2192): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HICON”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2459): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2462): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2471): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2472): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2472): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2500): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2522): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2525): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2534): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2535): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2535): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2645): warning C4311: “类型强制转换”: 从“HMENU”到“UINT”的指针截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2645): warning C4302: “类型强制转换”: 从“HMENU”到“UINT”截断
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2719): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2831): warning C4244: “初始化”: 从“INT_PTR”转换到“UINT”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2926): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2940): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\bcmenu.cpp(2968): warning C4244: “初始化”: 从“INT_PTR”转换到“int”，可能丢失数据
+  BtnST.cpp
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(14): warning C4005: “BS_TYPEMASK”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\um\winuser.h(11039): note: 参见“BS_TYPEMASK”的前一个定义
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(298): warning C4312: “类型强制转换”: 从“UINT”转换到更大的“HMENU”
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(997): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“HICON”
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(997): warning C4311: “类型强制转换”: 从“HICON”到“int”的指针截断
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(997): warning C4302: “类型强制转换”: 从“HICON”到“int”截断
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(998): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“HICON”
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(1052): warning C4312: “类型强制转换”: 从“unsigned long”转换到更大的“HICON”
+c:\users\14980\desktop\alice\alice\alice\btnst.cpp(1685): warning C4996: 'wcsncpy': This function or variable may be unsafe. Consider using wcsncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\corecrt_wstring.h(205): note: 参见“wcsncpy”的声明
+  Alice.cpp
+  AliceDlg.cpp
+c:\users\14980\desktop\alice\alice\alice\alicedlg.cpp(805): warning C4244: “初始化”: 从“LRESULT”转换到“int”，可能丢失数据
+c:\users\14980\desktop\alice\alice\alice\alicedlg.cpp(1095): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
+  d:\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: 参见“itoa”的声明
+  正在生成代码
+  All 586 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  Alice.vcxproj -> C:\Users\14980\Desktop\Alice\Alice\x64\Release\Alice.exe
